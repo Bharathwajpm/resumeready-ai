@@ -1,73 +1,135 @@
-# Welcome to your Lovable project
+# 🧠 Smart Resume Analyzer AI
 
-## Project info
+An AI-powered web application that analyzes resumes against job descriptions to generate **job-fit scores, skill gap insights, and personalized recommendations**.
 
-**URL**: https://lovable.dev/projects/4d517338-af95-4bc8-b654-0804f3bfbe01
+---
 
-## How can I edit this code?
+## 🚀 Overview
 
-There are several ways of editing your application.
+Smart Resume Analyzer helps users understand how well their resume matches a job role by:
 
-**Use Lovable**
+* Comparing resume with job description
+* Identifying missing and matched skills
+* Generating insights and recommendations
+* Providing visual analytics for better understanding
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4d517338-af95-4bc8-b654-0804f3bfbe01) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Key Features
 
-**Use your preferred IDE**
+* 📄 Resume Upload (PDF/TXT)
+* 🧾 Job Description Input
+* 🎯 Job Fit Score Calculation
+* ✅ Matched vs ❌ Missing Skills Detection
+* 📊 Skill Gap Analysis (Charts & Graphs)
+* 🧠 AI-Based Recommendations (Concept)
+* 📥 Downloadable PDF Report
+* 🌙 Modern UI with clean design
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+* **Frontend:** React + TypeScript + Vite
+* **Styling:** Tailwind CSS
+* **Charts:** Recharts
+* **PDF Generation:** jsPDF
+* **Backend:** (Concept-based / not fully integrated)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📸 Screenshots
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🖥️ Homepage & Dashboard
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+<p align="center">
+  <img src="./images/Homepage_Dashboard.png" width="700"/>
+</p>
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 📥 Input Section (Resume + Job Description)
 
-**Use GitHub Codespaces**
+<p align="center">
+  <img src="./images/Input.png" width="700"/>
+</p>
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+### 📊 Output Result
 
-This project is built with:
+<p align="center">
+  <img src="./images/Output.png" width="700"/>
+</p>
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+### 📈 Output Analysis
 
-Simply open [Lovable](https://lovable.dev/projects/4d517338-af95-4bc8-b654-0804f3bfbe01) and click on Share -> Publish.
+<p align="center">
+  <img src="./images/Output_Analysis.png" width="700"/>
+</p>
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+### 📉 Skill Gap Analysis
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+<p align="center">
+  <img src="./images/Skill_gap_Analysis.png" width="700"/>
+</p>
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+### 📄 Download Report Feature
+
+<p align="center">
+  <img src="./images/Download_report.png" width="700"/>
+</p>
+
+---
+
+### 📚 About Project Section
+
+<p align="center">
+  <img src="./images/About_project.png" width="700"/>
+</p>
+
+---
+
+## ⚠️ Note
+
+This project is currently a **UI + system design demo**.
+
+* AI logic is simulated
+* No real backend or ML model integration
+* Designed to showcase frontend + product design skills
+
+---
+
+## 🧠 Future Improvements
+
+* Real NLP-based resume parsing
+* AI/LLM integration for smart analysis
+* Backend API using FastAPI / Node.js
+* Real-time scoring system
+* Full deployment with database
+
+---
+
+## 🎯 Project Highlights
+
+* Clean and modern UI
+* Real-world problem solving approach
+* Combines AI + Full Stack concepts
+* Strong portfolio-ready project
+
+---
+
+## 👨‍💻 Author
+
+**Bharathwaj PM**
+
+---
+
+⭐ Star this repo if you found it useful!
+
