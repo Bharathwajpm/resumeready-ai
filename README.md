@@ -3,6 +3,9 @@
 An AI-powered web application that analyzes resumes against job descriptions to generate **job-fit scores, skill gap insights, and personalized recommendations**.
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the project here: 👉 https://resumeready-ai.vercel.app
 
 ## 🚀 Overview
 
