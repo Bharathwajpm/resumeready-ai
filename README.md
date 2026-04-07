@@ -125,11 +125,4 @@ This project is currently a **UI + system design demo**.
 
 ---
 
-## 👨‍💻 Author
-
-**Bharathwaj PM**
-
----
-
-⭐ Star this repo if you found it useful!
 
